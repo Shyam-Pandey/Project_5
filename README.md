@@ -17,7 +17,7 @@
     - [Coder Community]()
 
 ## Features
-- It is single page Website with full responsiveness.
+- It is single page Website with no responsiveness.
 
 ## Learning during project creation.
 1. I have learned a lot during creation of project
